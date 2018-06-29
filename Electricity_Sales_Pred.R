@@ -1,6 +1,3 @@
-#MIDTERM EXAM 
-#Mihir Bhatia 
-#PUID : 0029923247 
 # Cleaning data ----------------------------
 #libraries 
 library(corrplot)
